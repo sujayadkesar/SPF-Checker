@@ -62,7 +62,7 @@ If you're interested in contributing to the development of Reverse Shell Generat
 
 No matter how you choose to contribute, your help is greatly appreciated! Together, we can make Reverse Shell Generator the best tool for generating reverse shells. Thank you for your support! 🙏
 
-Please make sure to read the [Code of Conduct](CODE_OF_CONDUCT.md) and [CONTRIBUTING.md](CONTRIBUTING.md) before contributing to the project.
+Please make sure to read the [CONTRIBUTING.md](CONTRIBUTING.md) before contributing to the project.
 
 
 
